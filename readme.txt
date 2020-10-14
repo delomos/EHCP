@@ -1,4 +1,4 @@
-This file may be old. have a look at www.ehpc.net for more recent info.
+This file may be old. have a look at www.ehcp.net for more recent info.
 
 
 prerequisities:
